@@ -34,16 +34,16 @@ So basically I went and created a repository on the website then I went into the
 
 
 ## Grocery List
-[x] Apples
-[x] Bananas
-[x] Cranberries
-[x] Durian
-[x] Eggplant
-[ ] Fig
-[ ] Grapefruit
-[ ] Honeydew Melon
-[ ] Icaco
-[ ] Jackfruit
+- [x] Apples
+- [x] Bananas
+- [x] Cranberries
+- [x] Durian
+- [x] Eggplant
+- [ ] Fig
+- [ ] Grapefruit
+- [ ] Honeydew Melon
+- [ ] Icaco
+- [ ] Jackfruit
 
 ## 3 Cool Websites
 - [Speedrun.com] (https://www.speedrun.com/) Speedrun.com is the premier place to find speedruns for your favorite games and to log your speedrun progress. I personally hold over 2000 speedrun world records jk. 
