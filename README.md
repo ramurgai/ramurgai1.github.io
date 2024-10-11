@@ -79,4 +79,5 @@ quadrantChart
   Person: [0.25,0.25]
   Person: [0.75,0.25]
 
-  
+```
+### Charts are cool!
