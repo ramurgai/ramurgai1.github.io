@@ -49,3 +49,34 @@ So basically I went and created a repository on the website then I went into the
 - [Speedrun.com] (https://www.speedrun.com/) Speedrun.com is the premier place to find speedruns for your favorite games and to log your speedrun progress. I personally hold over 2000 speedrun world records jk. 
 - [Youtube] (https://www.youtube.com/) I love Youtube because you can find a ton of fun content about basically any of your interests no matter how niche they are. Youtube is basically the main way that people consume long form content that aren't TV shows or movies.
 - [Discord] (https://discord.com/) Discord is a really great way of talking to people who have Androids because they don't have to be ashamed of the green bubbles. You can also join a bunch of cool communities built around your interests.
+
+
+# My Mermaid Charts
+
+## Free Will Paradox:
+```mermaid
+flowchart TD;
+  A(Say yes if you have free will?)-->B(You said yes.)
+  A-->C(You say yes.)
+  C-->D(You followed orders and do not have free will.)
+  B(You did something other than say yes.)-->E(You did not say you have free will.)
+  E-->F(You do not have free will.)
+  D-->F
+
+```
+
+## 4 Square Chart:
+
+```mermaid
+
+quadrantChart
+  quadrant-1 Queen
+  quadrant-2 King
+  quadrant-3 Trash
+  quadrant-4 Jack
+  Person: [0.25,0.75]
+  Person: [0.75,0.75]
+  Person: [0.25,0.25]
+  Person: [0.75,0.25]
+
+  
