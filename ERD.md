@@ -1,3 +1,5 @@
+# Card Shop Stuff:
+
 ``` mermaid
 erDiagram
     PRODUCT ||--|{ SALE: "is sold in"
@@ -13,10 +15,18 @@ erDiagram
     string customerid PK "Unique Customer ID"
     string name "Customer Name"
     string name "Email address"
-    int card_number 
+    string card_number "Card Number"
     }
 
     SALE {
         string id PK "Sale ID"
+        date date "Sale Date"
+        string customerid FK "Customer ID"
+        string productid FK "Product ID"
+        int quantity "Quantity Sold"
+    }
+    INVENTORY {
+    string productid FK "Product ID"
+    int stock "Current stock available"
 
     }
