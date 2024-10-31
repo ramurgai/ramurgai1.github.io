@@ -13,6 +13,10 @@ body {
     font-size: medium;
 }
 
+.Navbar li {
+    color: #F3F4F5;
+}
+
 .Contact {
     color: #F3F4F5;
     font-family: 'Times New Roman';
@@ -29,7 +33,7 @@ body {
     font-family: 'Times New Roman';
 }
 
-section {
+.Bio {
     color: #8097A3;
     font-family: 'Times New Roman';
     font-size: medium;
@@ -40,8 +44,8 @@ section {
     font-family: 'Times New Roman';
 }
 
-ul {
-    color: #F3F4F5;
+.Skillist {
+    color: #8097A3;
     font-family: 'Times New Roman';
     font-size: medium;
 }
@@ -51,7 +55,13 @@ ul {
     font-family: 'Times New Roman'
 }
 
-strong {
+.Projectlist{
+    color: #8097A3;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+.Projectlist strong {
     color: #F3F4F5;
 }
 
@@ -83,4 +93,14 @@ footer {
     font-size: xx-small;
 }
 
+.Interestlist {
+    color: #8097A3;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
 
+.Interestlist strong {
+    color: #F3F4F5;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
