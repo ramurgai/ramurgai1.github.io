@@ -1,3 +1,79 @@
-h1 {
+
+
+.Name {
+    color: #261F2D;
+    font-family: 'Times New Roman';
+    font-size: xx-large;
+}
+
+.Navbar {
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+.Contact {
+    color: #261F2D;
+    font-family: 'Times New Roman';
+}
+
+.Contacts {
+    color: #8097A3;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+.Story {
+    color: #261F2D;
+    font-family: 'Times New Roman';
+}
+
+section {
+    color: #8097A3;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+.Skills{
+    color: #261F2D;
+    font-family: 'Times New Roman';
+}
+
+ul {
+    color: #8097A3;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+.Projects {
+    color: #261F2D;
+    font-family: 'Times New Roman'
+}
+
+strong {
     color: #261F2D;
 }
+
+u {
+    color: #261F2D;
+}
+
+.ContactInfo {
+    color: #261F2D;
+    font-family: 'Times New Roman';
+    font-size: xx-large;
+}
+
+.Interests {
+    color: #261F2D;
+    font-family: 'Times New Roman';
+    font-size: xx-large;
+}
+
+.PhoneInfo {
+    color: #261F2D;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+
+
