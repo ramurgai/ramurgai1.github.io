@@ -13,7 +13,6 @@ nav{
     position: relative;
     top: 0;
     width: 100%;
-    top: 0;
 }
 
 .Navbar{
@@ -31,7 +30,6 @@ nav{
 
 .Navbar li{
     float: left;
-    border-right: 1px solid #475671;
     border-right: none;
     
 }
