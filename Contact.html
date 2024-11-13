@@ -21,6 +21,37 @@
             <p class="PhoneInfo">
                 To obtain my phone number please reach me at my email. Once I verify the integrity of your message I will give you my phone number.
             </p>
+            <form>
+                <label class="label" for="name">Name:</label>
+                <input class="input" type="text" id="name" name="name" style="flex-grow: 20;" required>
+                <br>
+                <br>
+                <label class="label" for="email">Email </label>
+                <input class="input" type="email" id="email" name="email" pattern=".+@gmail\.com" required>
+                <br>
+                <br>
+                <label class="label" for="phone">Phone Number (XXX-XXX-XXXX):</label>
+                <input class="input" type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+                <br>
+                <br>
+                <label class="label" for="extra">Additional Information:</label>
+                <br>
+                <textarea class="textarea" id="extra" name="extra" rows="4" minlength="10"></textarea>
+                <br>
+                <br>
+                <label class="label" for="question">Question</label>
+                <input class="radio" type="radio" id="question" name="qcs">
+                <br>
+                <label class="label" for="comment" >Comment</label>
+                <input class="radio" type="radio" id="comment" name="qcs">
+                <br>
+                <label class="label" for="comment">Suggestion</label>
+                <input class="radio" type="radio" id="suggestion" name="qcs">
+                <br>
+                <br>
+                <input type="submit">
+            </form>
+
         </p>
         <footer>
             I hope you enjoyed my website if you're seeing this little easter egg message then you have very good observational skills! Gold star for you!
