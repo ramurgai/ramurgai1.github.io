@@ -20,7 +20,7 @@ nav{
     font-size: large;
     list-style-type: none;
     margin: 1;
-    padding: 10;
+    padding: 5;
     position: relative;
     top:0;
     overflow: hidden;
@@ -31,7 +31,7 @@ nav{
 a {
     color: #b276ed;
     background-color: #94A7C7;
-    padding: 10px 20px;
+    padding: 10px 10px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -52,7 +52,7 @@ a:hover {
     display: block;
     color: #3b395c;
     text-align: center;
-    padding: 14px 150px;
+    padding: 14px 125px;
     text-decoration: none;
 }
 
